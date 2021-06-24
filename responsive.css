@@ -1,0 +1,349 @@
+@media screen and ( min-width: 0px ) and ( max-width: 575px){
+    .section1 .about .me{
+        margin-left: 10%;
+        height: 50%;
+    }
+    .section1 .myskills .skillimage img{
+        width: 55%;
+    }
+    .section1 .about h1{
+        margin-left: 30%;
+    }
+    .section1 .mySkills h1{
+        margin-left: 30%;
+    }
+    .section1 .academics h1{
+        margin-left: 30%;
+    }
+    .section1 .projects h1{
+        margin-left: 30%;
+    }
+    .section1 .myskills .skillimage{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .content1 p{
+        font-size: 30px;
+        line-height: 50px;
+        padding-top: 6%;
+    }
+    hr{
+        margin-left: 11%;
+        width: 74%;
+    }
+    .academics p{
+        font-size: 13px;
+        padding: 10px 60px;
+      }
+      .academics h2{
+        padding: 10px 63px;  
+      }
+      .container h4{
+          font-size: 17px;
+      }
+      .myContact{
+        margin-top: 170%; 
+        height: 60%;
+      }
+      .myContact .contact1 h4{
+        font-size: 17px;
+      }
+      .myContact .contact2 h4{
+        font-size: 17px;
+      }
+      .myContact .contact1 p{
+        font-size: 17px;
+      }
+      .myContact .contact2 p{
+        font-size: 17px;
+      }
+      .myContact .contact1{
+          margin-left: 20%;
+          padding-top: 40px;
+      }
+      .myContact .contact2{
+        margin-left: 20%;
+        padding-top:40px;
+    }
+    .content1 button{
+        margin-left: 30px;
+    }
+}
+
+@media screen and ( min-width: 576px ) and ( max-width: 761px){
+    .section1 .about .me{
+        margin-left: 25%;
+    }
+    .section1 .about h1{
+        margin-left: 36%;
+    }
+    .section1 .mySkills h1{
+        margin-left: 36%;
+    }
+    .section1 .academics h1{
+        margin-left: 36%;
+    }
+    .section1 .projects h1{
+        margin-left: 36%;
+    }
+    .section1 .myskills .skillimage{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .content1 p{
+        font-size: 30px;
+        line-height: 50px;
+    }
+    hr{
+        margin-left: 11%;
+        width: 67%;
+    }
+    .academics p{
+        font-size: 15px;
+        padding: 10px 90px;
+      }
+      .academics h2{
+        padding: 10px 93px;  
+      }
+      .container h4{
+          font-size: 17px;
+      }
+      .myContact{
+        margin-top: 68%; 
+        height: 70%;
+      }
+      .myContact .contact1 h4{
+        font-size: 17px;
+      }
+      .myContact .contact2 h4{
+        font-size: 17px;
+      }
+      .myContact .contact1 p{
+        font-size: 17px;
+      }
+      .myContact .contact2 p{
+        font-size: 17px;
+      }
+      .myContact .contact1{
+          margin-left: 28%;
+          padding-top: 30px;
+      }
+      .myContact .contact2{
+        margin-left: 28%;
+        padding-top: 30px;
+    }
+    .content1 button{
+        margin-left: 40px;
+    }
+}
+@media screen and ( min-width: 762px ) and ( max-width: 991px){
+    .section1 .about .me{
+        margin-left: 28%;
+    }
+    .section1 .about h1{
+        margin-left: 40%;
+    }
+    .section1 .mySkills h1{
+        margin-left: 40%;
+    }
+    .section{
+        height: 110%;
+    }
+    .section1 .academics h1{
+        margin-left: 40%;
+    }
+    .section1 .projects h1{
+        margin-left: 40%;
+    }
+    .section1 .myskills .skillimage{
+        grid-template-columns: repeat(3,1fr);
+    }
+    .content1 p{
+        font-size: 24px;
+        line-height: 40px;
+        padding-top: 3%;
+    }
+    hr{
+        margin-left: 12%;
+        width: 60%;
+    }
+    .academics p{
+        font-size: 15px;
+        padding: 10px 120px;
+      }
+      .academics h2{
+        padding: 10px 120px;  
+      }
+      .container h4{
+          font-size: 20px;
+      }
+      .myContact{
+        margin-top: 40%; 
+        height: 90%;
+      }
+      .myContact .contact1 h4{
+        font-size: 20px;
+      }
+      .myContact .contact2 h4{
+        font-size: 20px;
+      }
+      .myContact .contact1 p{
+        font-size: 20px;
+      }
+      .myContact .contact2 p{
+        font-size: 20px;
+      }
+      .myContact .contact1{
+          margin-left: 32%;
+          padding-top: 20px;
+      }
+      .myContact .contact2{
+        margin-left: 32%;
+        padding-top: 20px;
+    }
+    .content1 button{
+        margin-left: 40px;
+    }
+}
+@media screen and ( min-width: 992px ) and ( max-width: 1199px){
+    .section1 .about .me{
+        margin-left: 36%;
+    }
+    .section1 .about h1{
+        margin-left: 44%;
+    }
+    .section1 .mySkills h1{
+        margin-left: 44%;
+    }
+    .section1 .academics h1{
+        margin-left: 44%;
+    }
+    .section1 .projects h1{
+        margin-left: 44%;
+    }
+    .section1 .myskills .skillimage{
+        grid-template-columns: repeat(3,1fr);
+    }
+    .content1 p{
+        padding-top: 5%;
+        font-size: 30px;
+        line-height: 50px;
+    }
+    hr{
+        margin-left: 11%;
+        width: 60%;
+    }
+    .academics p{
+        font-size: 15px;
+        padding: 10px 140px;
+      }
+      .academics h2{
+        padding: 10px 140px;  
+      }
+      .container h4{
+          font-size: 23px;
+      }
+      .myContact{
+        margin-top: 40%; 
+        height: 70%;
+      }
+      .myContact .contact1 h4{
+        font-size: 20px;
+      }
+      .myContact .contact2 h4{
+        font-size: 20px;
+      }
+      .myContact .contact1 p{
+        font-size: 20px;
+      }
+      .myContact .contact2 p{
+        font-size: 20px;
+      }
+      .myContact .contact1{
+          margin-left: 37%;
+          padding-top: 40px;
+      }
+      .myContact .contact2{
+        margin-left: 37%;
+        padding-top:40px;
+    }
+    .content1 button{
+        margin-left: 40px;
+    }
+}
+@media screen and ( min-width: 1200px ) and ( max-width: 1400px){
+    .section1 .about .me{
+        margin-left: 36%;
+    }
+    .section1 .about h1{
+        margin-left: 44%;
+    }
+    .section1 .mySkills h1{
+        margin-left: 44%;
+    }
+    .section1 .academics h1{
+        margin-left: 44%;
+    }
+    .section1 .projects h1{
+        margin-left: 44%;
+    }
+    .section1 .myskills .skillimage{
+        grid-template-columns: repeat(3,1fr);
+    }
+    .content1 p{
+        padding-top: 5%;
+        font-size: 40px;
+        line-height: 58px;
+    }
+    .section1 .about p{
+        font-size: 23px;
+    }
+    hr{
+        margin-left: 11%;
+        width: 60%;
+    }
+    .academics p{
+        font-size: 25px;
+        padding: 10px 160px;
+      }
+      .academics h2{
+          font-size: 30px;
+          padding: 10px 160px;  
+      }
+      .container h4{
+          font-size: 27px;
+      }
+      .container p{
+        line-height: 30px;
+        font-size: 19px;
+      }
+      .myContact{
+        margin-top: 36%; 
+        height: 70%;
+      }
+      .myContact .contact1 h4{
+        font-size: 22px;
+      }
+      .myContact .contact2 h4{
+        font-size: 22px;
+      }
+      .myContact .contact1 p{
+        font-size: 22px;
+      }
+      .myContact .contact2 p{
+        font-size: 22px;
+      }
+      .myContact .contact1{
+          margin-left: 37%;
+          padding-top: 70px;
+      }
+      .myContact .contact2{
+        margin-left: 37%;
+        padding-top:70px;
+    }
+    .content1 button{
+        margin-left: 70px;
+        font-size: 20px;
+    }
+    footer p{
+        margin-top: 120px;
+      }
+}
